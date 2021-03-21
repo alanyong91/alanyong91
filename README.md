@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile. Nothing to show here but you are most certainly welcome to my GitHub profile.
 
-## Interested in ...
+## ♥️ Interested in ...
 - reactjs (mostly)
 - nodejs (express.js + sequelize)
 
-## Currently learning ...
+## 📚 Currently learning ...
 - reactjs (keep learning)
 - graphql (apollo server + client)
 
